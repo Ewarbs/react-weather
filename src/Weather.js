@@ -1,6 +1,6 @@
 import React from "react";
 export default function Weather(){
   return (
-      <h2>Hello from Weather</h2>
+      <h2>Hello From Weather</h2>
   )
 }
