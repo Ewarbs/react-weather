@@ -1,6 +1,6 @@
-import React from "react";
-export default function Weather(){
-  return (
-      <h2>Hello From Weather</h2>
-  )
+import React, { useState } from "react";
+import axios from "axios";
+
+export default function Weather(props) {
+  return <div></div>;
 }
