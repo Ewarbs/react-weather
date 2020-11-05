@@ -49,6 +49,7 @@ export default function SearchEngine() {
             <img src={temperature.icon} alt={temperature.description} />{" "}
           </li>
         </ul>
+        <small><a class="coded-by" href="https://github.com/Ewarbs/react-weather" target="_blank" rel="noopener noreferrer">Open source code</a></small>
       </div>
     );
   } else {
